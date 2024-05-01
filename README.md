@@ -1,2 +1,2 @@
 # algorithms
-Solving and optimizing algorithmic challenges.
+Solving and optimizing algorithmic challenges. 
