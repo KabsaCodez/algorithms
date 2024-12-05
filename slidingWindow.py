@@ -2,8 +2,7 @@
 Sliding window is best for questions on subarrays or substrings. 
 Instead of recalculating data repeatedly, we maintain a "window" that moves through the array or string.
 
-Fixed Window: The size of the window is constant.
-Example: Find the maximum sum of any subarray of size k.
+Fixed Window Example: Find the maximum sum of any subarray of size k.
 Dynamic Window: The size of the window can expand or shrink.
 Example: Find the smallest subarray with a sum >= target.
 '''
