@@ -11,6 +11,7 @@ def fixed_sliding_window(arr, k):
     max_result = float('-inf')  # Or 0, depending on the problem
     current_window_sum = 0
 
+    
     # Traverse through the array
     for right in range(len(arr)):
         # Add the current element to the window
